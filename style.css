@@ -90,13 +90,13 @@ a{
 
 /* Footer */
 .footer{
-    text-align: center;
     background-color: #404042;
     color: white;
     padding: 10px 0;
 }
 
 .footer p{
+    text-align: center;
     width: 900px;
     margin: 18px 0;
 }
